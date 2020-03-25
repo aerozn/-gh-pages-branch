@@ -19,11 +19,11 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "诗记胶片"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
+site_build_date = "2020-1-1T16:51+08:00"
+author = "AL"
+email = "lixinlei@outlook.com"
 author_homepage = "https://www.imalan.cn"
 description = "只坚持一种正义。我的正义。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
@@ -35,7 +35,7 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
+        "name": "诗记",
         "url": "https://www.imalan.cn",
         "brief": "熊猫小A的主页。"
     }
