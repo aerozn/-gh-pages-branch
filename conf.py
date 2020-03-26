@@ -19,13 +19,13 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "诗记胶片"
+site_name = "拾色艺术"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-1-1T16:51+08:00"
 author = "AL"
 email = "lixinlei@outlook.com"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
+description = "手工艺术是最高级的艺术。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "诗记",
+        "name": "拾色",
         "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "brief": "呆呆的主页"
     }
 ]
 nav = [
